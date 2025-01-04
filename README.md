@@ -22,3 +22,7 @@ A fishing game built with Python, where players navigate a 2D world as a fisherm
 <img width="207" alt="fishImage1" src="https://github.com/user-attachments/assets/72122a66-a5db-48a3-b549-1d8ef4f65ef8" />
 
 https://github.com/user-attachments/assets/1e781bdb-88cb-44ed-b89d-2b3ffde9fa8f
+
+## Technologies Used
+
+- Python
